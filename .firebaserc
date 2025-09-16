@@ -1,0 +1,15 @@
+{
+  \"projects\": {
+    \"default\": \"isro-quiz-app-demo\"
+  },
+  \"targets\": {
+    \"isro-quiz-app-demo\": {
+      \"hosting\": {
+        \"isro-quiz-app\": [
+          \"isro-quiz-app-demo\"
+        ]
+      }
+    }
+  },
+  \"etags\": {}
+}
